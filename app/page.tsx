@@ -16,8 +16,8 @@ export default function Page() {
             className="relative w-0 h-0 border-l-[15px] border-r-[15px] border-b-[26px] border-l-transparent border-r-transparent border-b-black"
           />
           <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>
-            <strong>Welcome to Deelos!</strong> This is the Next.js dashboard example
-            , brought to you by Vercel.
+            <strong>Welcome to Deelos!</strong> This is the Next.js dashboard example, 
+            brought to you by Vercel.
           </p>
           <Link
             href="/login"
